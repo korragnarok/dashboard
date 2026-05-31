@@ -1,2 +1,0 @@
-# sales-calendar
-sales calendar
